@@ -11,4 +11,4 @@ Tips for doing ds and algo
 
 5. Assume the input size was 1, Now solve it. Add one to element to it (n=2), now what happens? Solve it. Add one more element (n=3) and solve it. Then generalise it for n elements
 
-6. See if you can apply 2 pointer method (1 slow pointer, 1 fast pointer), especially if data is stored in array. It is also called as [Floyds-cycle-detection-algorithm](https://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
+6. See if you can apply 2 pointer method (1 slow pointer, 1 fast pointer), especially if data is stored in array/list. It is also called as [Floyds-cycle-detection-algorithm](https://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
