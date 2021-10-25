@@ -1,7 +1,7 @@
 # DS-Algo-Tips
 Tips for doing ds and algo
 
-1. Try sorting and see if that helps solve the problem. See leetcode -> 56. merge-intervals
+1. Try sorting and see if that helps solve the problem. See leetcode -> [56. merge-intervals](https://leetcode.com/problems/merge-intervals/)
 
 2. Check if it can be solved by using a simple known data structure like: stack, queue, tree, hashing or lists - See leetcode 735. asteroid-collision
 
