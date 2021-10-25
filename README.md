@@ -10,3 +10,5 @@ Tips for doing ds and algo
 4. See if divide and conquer helps (ex: mergesort)
 
 5. Assume the input size was 1, Now solve it. Add one to element to it (n=2), now what happens? Solve it. Add one more element (n=3) and solve it. Then generalise it for n elements
+
+6. See if you can apply 2 pointer method (one slow pointer, 1 fast pointer)
