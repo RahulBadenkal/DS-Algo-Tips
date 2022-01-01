@@ -18,4 +18,4 @@ Tips for doing ds and algo
 
 8. Learn every basic graph operations. Ex: DFS, BFS
 
-9. Bit manipulation techniques
+9. Bit manipulation techniques. https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/
