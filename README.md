@@ -17,3 +17,5 @@ Tips for doing ds and algo
 7. Learn every basic tree operations (especially binary tree). Ex: DFS, BFS, depth count, inorder, preorder, postorder
 
 8. Learn every basic graph operations. Ex: DFS, BFS
+
+9. Bit manipulation techniques
